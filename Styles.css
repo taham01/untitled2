@@ -1,0 +1,27 @@
+h1{
+
+    color: black;
+    text-align: center;
+    background-color: blue;
+
+}
+h2{
+    color : blue;
+    text-align: center;
+    text-shadow: black;
+    text-decoration-color: aqua;
+    text-orientation: mixed;
+    text-decoration-style: wavy;
+}
+body{
+    background-color: #32312f;
+    font-family: sans-serif;
+}
+button {
+
+     width:50px;
+     height: 20px;
+ }
+table{
+    width : 300px;
+}
